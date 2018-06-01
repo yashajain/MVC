@@ -1,3 +1,0 @@
-Server DBSRV2012
-ID Payroll
-Password Diaspark
